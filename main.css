@@ -1,0 +1,12 @@
+.test{
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: 0.3s opacity ease-in-out;
+}
+.test:hover{
+    opacity: 0.8;
+}
+.cv{
+    height: fit-content;
+}
